@@ -5,7 +5,7 @@ const multiply = require('./math').multiply;
 
 describe('add', () => {
   it('should add our numbers', () => {
-    expect(add(2,2)).toBe(4);
+    expect(add(2,3)).toBe(5);
   });
 });
 
