@@ -4,7 +4,7 @@
   "description": "CI and Node.js Testing Examples for Gaza Sky Geeks!",
   "main": "math.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage --colors"
   },
     "devDependencies": {
     "jest": "23.6.0"
